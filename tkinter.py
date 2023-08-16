@@ -7,5 +7,5 @@ root.geometry('600x400+1000+300')
 
 btn = Button(root, text='text')
 
-# btn.pack()
+btn.pack()
 root.mainloop()
