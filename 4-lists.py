@@ -1,3 +1,4 @@
+# Actually these are arrays in JS
 example_list = [1, '22']
 # print(example_list[2]) error
 # many methods similar to JS
