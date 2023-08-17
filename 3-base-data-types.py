@@ -25,3 +25,6 @@ print("I'm pretty cool")
 print('I\'m pretty cool')
 print("""hello 
 multiple lines text""")
+
+# print(10 === 9) error
+print(type(2))
