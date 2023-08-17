@@ -27,3 +27,17 @@ print(newlist)
 # how to copy array
 copy_of_fruits = [x for x in fruits]
 print(copy_of_fruits)
+
+# sort list
+thislist.sort()
+
+# copy list
+# 1 way
+thislist.copy()
+# 2 way
+fruitslist = ["apple", "banana", "cherry"]
+fruitslistCopy = list(fruitslist)
+print(fruitslistCopy)
+
+# join lists
+print(fruitslist + fruitslist)
