@@ -41,3 +41,13 @@ print(fruitslistCopy)
 
 # join lists
 print(fruitslist + fruitslist)
+
+# how to add an element
+fruits.append('kiwi')
+fruits.insert(1, 'cherry')
+
+# how to remove an element
+fruits.remove("kiwi")
+
+# print a range of elements
+print(fruits[2:5])
