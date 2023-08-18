@@ -9,7 +9,7 @@ thisset2 = {"apple", "banana", "cherry"}
 thisset2.add("orange")
 print(thisset2)
 
-# Add elements from tropical into thisset:
+# Add elements from tropical into thisset3:
 thisset3 = {"apple", "banana", "cherry"}
 tropical = {"pineapple", "mango", "papaya"}
 thisset3.update(tropical)
