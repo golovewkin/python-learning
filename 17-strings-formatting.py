@@ -15,3 +15,14 @@ print(myorder.format(quantity, itemno, price))
 # Named Indexes
 myorder = "I have a {carname}, it is a {model}."
 print(myorder.format(carname="Ford", model="Mustang"))
+
+## declaring variables
+name = "Datacamp"
+type_of_company = "Educational"
+
+## enclose your variable within the {} to display it's value in the output
+print(f"{name} is an {type_of_company} company.")
+
+## calling the function using f-string
+name = "Datacamp"
+print(f"{greet(name)}")
